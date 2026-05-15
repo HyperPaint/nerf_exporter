@@ -1,0 +1,2 @@
+nerf-exporter:
+  api: "https://api.nerfofficial.org/api/population-control?server=eu"
